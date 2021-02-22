@@ -3,7 +3,7 @@
 Final Project for ETH Cartography III HS20
 
 <p align="center">
-  <img src="https://github.com/ywyue/SportsZurich-CartographyIII-Project/blob/master/screen.PNG" alt="Photo" style="width: 500px;"/> 
+  <img src="screen.PNG" alt="Photo" style="width: 500px;"/> 
 </p>
 
 ## Introduction
