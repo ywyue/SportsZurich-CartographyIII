@@ -21,6 +21,7 @@ Data status:
 
 Web app: [http://carto3.ethz.ch/project/qm2NL4tM/](http://carto3.ethz.ch/project/qm2NL4tM/)
 
+More information can be found in the [project report](https://github.com/ywyue/SportsZurich-CartographyIII-Project/blob/master/Cartography_III_report.pdf).
 ## Project setup
 
 ```
