@@ -2,6 +2,10 @@
 
 Final Project for ETH Cartography III HS20
 
+<p align="center">
+  <img src="https://github.com/ywyue/SportsZurich-CartographyIII-Project/blob/master/screen.PNG" alt="Photo" style="width: 500px;"/> 
+</p>
+
 ## Introduction
 
 The main purpose of this project is to develop an interesting and attractive 3D web map
