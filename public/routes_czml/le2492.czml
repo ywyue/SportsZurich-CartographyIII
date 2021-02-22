@@ -1,0 +1,31 @@
+[
+  {
+    "id": "document",
+    "version": "1.0",
+    "clock": {
+      "interval": "2021-01-02T10:00:00Z/2021-01-02T10:00:10Z",
+      "currentTime": "2021-01-02T10:00:00Z",
+      "multiplier": 5,
+      "range": "LOOP_STOP",
+      "step": "SYSTEM_CLOCK_MULTIPLIER"
+    }
+  },
+  {
+    "id": "CesiumMan",
+    "model": {
+      "gltf": "models/CesiumMan/Cesium_Man.glb"
+    },
+    "position": {
+      "interpolationAlgorithm": "LINEAR",
+      "forwardExtrapolationType": "HOLD",
+      "epoch": "2021-01-02T10:00:00Z",
+      "cartographicDegrees": [
+        0,8.469709044,47.36538051,100, 
+5,8.47054654,47.36475719,100
+      ]
+    },
+    "orientation": {
+      "velocityReference": "#position"
+    }
+  }
+]
