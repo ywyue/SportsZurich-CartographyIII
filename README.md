@@ -1,4 +1,4 @@
-# Sports Zuirch
+# Sports Zurich
 
 Final Project for ETH Cartography III HS20
 
