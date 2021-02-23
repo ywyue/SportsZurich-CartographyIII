@@ -1,6 +1,6 @@
 # Sports Zurich
 
-Final Project for ETH Cartography III HS20
+Final Project for ETH [Cartography III](https://karto.ethz.ch/en/education/courses/master/cartography-III.html) HS20
 
 <p align="center">
   <img src="screen.PNG" alt="Photo" style="width: 500px;"/> 
